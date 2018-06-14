@@ -178,7 +178,7 @@ h3 {
 }
 .intro {
   	position: relative;
-	background: #fff;
+	background: #ffff;
 }
 .artworks {
 	position: relative;
@@ -190,9 +190,9 @@ h3 {
 }
 .artwork .artwork-piece {
 	padding: 8% 0 8% 23.5%;
-	background-image: -webkit-linear-gradient(top left, rgb(160,55,220) 0%, rgb(83,200,234) 100%);
-	background-image: -o-linear-gradient(top left, rgb(160,55,220) 0%, rgb(83,200,234) 100%);
-	background-image: linear-gradient(to bottom right, rgb(160,55,220) 0%, rgb(83,200,234) 100%);
+	background-image: -webkit-linear-gradient(top left, rgb(202,220,55) 0%, rgb(255,8,8) 100%);
+	background-image: -o-linear-gradient(top left, rgb(202,220,55) 0%, rgb(255,8,8) 100%);
+	background-image: linear-gradient(to bottom right, rgb(202,220,55) 0%, rgb(255,8,8) 100%);
 	width: 50%;
 }
 .artwork-piece figure {
@@ -204,7 +204,7 @@ h3 {
 }
 .artwork .artwork-description {
 	background: #26223e;
-	color: #fff;
+	color: #ffff;
 	width: 50%;
 	padding: 11.25em 13em 11.5em;
 }
@@ -239,7 +239,7 @@ h3 {
 footer {
 	margin-top: -3.5em;
 	padding-top: 10em;
-	background-image: -webkit-linear-gradient(bottom left, rgb(83,200,234) 0%, rgb(255,117,86,1) 100%);
+	background-image: -webkit-linear-gradient(bottom left, rgb(83,200,234) 0%, rgb(255,117,86) 100%);
 	background-image: -o-linear-gradient(bottom left, rgb(91,255,141) 0%, rgb(213,86,255) 100%);
 	background-image: linear-gradient(to top right, rgb(147,255,91) 0%, rgb(86,91,255) 100%);
 }
