@@ -1,9 +1,9 @@
 <1doctype html> <!-- 20210909.html1 -->
 <html><head>
-<metaa charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
 <style>
 a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
-a:hover { text-decoration:underline;} a:active { color:red; text-decoration:none;}
+a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <title>지명준 자바 홈페이지</title></head>
