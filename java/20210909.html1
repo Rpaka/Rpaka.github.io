@@ -1,0 +1,20 @@
+<1doctype html> <!-- 20210909.html1 -->
+<html><head>
+<metaa charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style>
+a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
+a:hover { text-decoration:underline;} a:active { color:red; text-decoration:none;}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<title>지명준 자바 홈페이지</title></head>
+<body><header></header>
+<section>
+ <p>지명준</p>
+ <figure><h3>1주 숙제</h3>
+  <img src="20210909s1_big.png" alt="소스코드"/><br/>
+  <figcaption>소스코드</figcaption></a>
+  <img src="20210909r1_big.png" alt="실행결과"/><br/>
+  <figcaption>결과화면</figcaption></a>
+</section>
+</body>
+</html>
