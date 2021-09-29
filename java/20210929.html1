@@ -10,10 +10,25 @@
   </style>
   </head>
   <body>
-    <h2> 4주차 실습 및 과제</h2>
+    <h2> 4주차 실습1 </h2>
     <h3> 소스 코드 </h3>
     <img src="https://Rpaka.github.io/java/20210923s1_big.jpg">      <!-- 소스코드 캡처 화면-->
     <h3> 실행 예시 </h3>
     <img src="https://Rpaka.github.io/java/20210923r1_big.jpg">      <!-- 이클립스 결과 캡처 화면-->
+    <h2> 4주차 실습2 </h2>
+    <h3> 소스 코드 </h3>
+    <img src="https://Rpaka.github.io/java/20210928s1_.jpg">      <!-- 소스코드 캡처 화면-->
+    <h3> 실행 예시 </h3>
+    <img src="https://Rpaka.github.io/java/20210928r1_.jpg">      <!-- 이클립스 결과 캡처 화면-->
+    <h2> 4주차 과제1 </h2>
+    <h3> 소스 코드 </h3>
+    <img src="https://Rpaka.github.io/java/20210923s2_.jpg">      <!-- 소스코드 캡처 화면-->
+    <h3> 실행 예시 </h3>
+    <img src="https://Rpaka.github.io/java/20210923r2_.jpg">      <!-- 이클립스 결과 캡처 화면-->
+    <h2> 4주차 과제2 </h2>
+    <h3> 소스 코드 </h3>
+    <img src="https://Rpaka.github.io/java/20210923s3_.jpg">      <!-- 소스코드 캡처 화면-->
+    <h3> 실행 예시 </h3>
+    <img src="https://Rpaka.github.io/java/20210923r3_.jpg">      <!-- 이클립스 결과 캡처 화면-->
   </body>
 </html>
